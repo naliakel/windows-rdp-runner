@@ -317,3 +317,4 @@ Remove-Job $serveJob -Force -ErrorAction SilentlyContinue
         
         Write-Host "Session timeout reached. Ending Tailscale RDP session."
       shell: powershell
+# Manual run setup
